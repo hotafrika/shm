@@ -1,3 +1,3 @@
-module github.com/hidez8891/shm
+module github.com/hotafrika/shm
 
 go 1.13
