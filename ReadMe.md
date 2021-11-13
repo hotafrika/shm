@@ -1,6 +1,7 @@
-# shm
+This repo is a fork of original repo https://github.com/hidez8891/shm.
 
-[![Build Status](https://travis-ci.org/hidez8891/shm.svg?branch=master)](https://travis-ci.org/hidez8891/shm)
+Just added versioning for beautiful look in go.mod file.
+# shm
 
 shm is Golang shared memory library.
 
